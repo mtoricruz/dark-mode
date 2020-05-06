@@ -15,7 +15,7 @@ Commit your code regularly and meaningfully. This helps both you and your team l
 In this project you'll take this crypto currency tracker app and build two custom hooks that, when composed together, will allow users to set and persist a dark mode preference.
 
 ## Project Set Up
-
+//////////////////////////////DON'T FORGET TO ADD ZAK AS COLLAB///////////////////////////////////////////////
 - [ ] Create a forked copy of this project.
 - [ ] Add your team lead as collaborator on Github.
 - [ ] Clone your OWN version of the repository in your terminal
